@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NFC_HCE</string>
+    <string name="aiddescription">NFC_AID</string>
+    <string name="servicedesc">servicedesc</string>
+</resources>
