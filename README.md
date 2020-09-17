@@ -55,3 +55,9 @@ Data格式:
 * 用以判斷Card Reader傳來甚麼請求，並回傳對應資料
 1. 是否指定AID正確後，回傳一個正確訊息，就可以開門?
 2. 是否AID正確後，還會發出請求要求卡號，來開啟門禁?
+
+## 讀卡機
+* https://www.2n.cz/en_GB/products/external-secured-rfid-card-reader-125-khz-and-13-56-mhz-with-nfc-usb
+* https://www.2n.cz/en_GB/products/intercoms/2n-helios-ip-verso/secure-rfid-card-reader-13-56-mhz-with-nfc
+* https://www.2n.cz/en_GB/products/intercoms/2n-helios-ip-verso/rfid-card-reader-13-56-mhz-nfc
+* https://24h.pchome.com.tw/prod/DCAD0X-A9005I5VN?fq=/S/DCADIL
