@@ -57,7 +57,9 @@ Data格式:
 2. 是否AID正確後，還會發出請求要求卡號，來開啟門禁?
 
 ## 讀卡機
-* https://www.2n.cz/en_GB/products/external-secured-rfid-card-reader-125-khz-and-13-56-mhz-with-nfc-usb
+* https://www.2n.cz/en_GB/products/external-secured-rfid-card-reader-125-khz-and-13-56-mhz-with-nfc-usb //有提到Android Device
+* https://www.amazon.com/-/zh_TW/dp/B01KIKBYAG/ref=sr_1_1?dchild=1&keywords=NFC+HCE+Reader&qid=1600308063&sr=8-1 //有提到Card Emulation Mode
 * https://www.2n.cz/en_GB/products/intercoms/2n-helios-ip-verso/secure-rfid-card-reader-13-56-mhz-with-nfc
 * https://www.2n.cz/en_GB/products/intercoms/2n-helios-ip-verso/rfid-card-reader-13-56-mhz-nfc
+* https://www.amazon.com/-/zh_TW/dp/B01KEGQFYY/ref=pd_day0_201_1/144-4545729-4029334?_encoding=UTF8&pd_rd_i=B01KEGQFYY&pd_rd_r=95cbcc99-822c-48e1-94ee-9b7d7b2d19e1&pd_rd_w=HzIiv&pd_rd_wg=IvNKK&pf_rd_p=a59dd86a-4de1-429e-a396-2293f5f62529&pf_rd_r=S3BHWY8QJDPCMJ9VPWQZ&psc=1&refRID=S3BHWY8QJDPCMJ9VPWQZ
 * https://24h.pchome.com.tw/prod/DCAD0X-A9005I5VN?fq=/S/DCADIL
